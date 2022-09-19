@@ -8,3 +8,8 @@
 	url = https://github.com/drighelli/easyreporting
 	shallow = true
 	registered = true
+[submodule "SpatialExperiment"]
+	path = SpatialExperiment
+	url = https://github.com/drighelli/spatialexperiment
+	shallow = true
+	registered = true
